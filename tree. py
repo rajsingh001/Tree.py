@@ -2,7 +2,6 @@ import turtle
 
 turtle.speed(700)
 def tree(length,n):
-    
     if length < (length/n):
            return
     turtle.forward(length)
